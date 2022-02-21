@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "Alphabot-Mdོ"
 global.ownername= "ᴹᴿ᭄ KhairilOfcོ ×፝֟͜×"
-global.myweb ="https://bit.ly/3oKijvm"
+global.myweb ="https://ragilhensemtop1mars"
 global.youtube = "https://youtube.com/channel/UCdTepTOpfG2fsmvZnano6wg"
 global.github = "https://github.com/Khairilp.io"
 global.ownernomer = "601123550412"
@@ -28,7 +28,7 @@ global.ownernomerr = "+601123550412"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["601123550412","601123550412","601123550412"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["601123550412","601174791790","60105408006"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Alphabot-Mdོ' //sticker wm
 global.author = '' //sticker wm
 global.sessionName = 'session'
