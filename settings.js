@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "Alphabot-Mdོ"
 global.ownername= "ᴹᴿ᭄ KhairilOfcོ ×፝֟͜×"
-global.myweb ="https://ragilhensemtop1mars"
+global.myweb ="https://ragilhensemtop1mars.com"
 global.youtube = "https://youtube.com/channel/UCdTepTOpfG2fsmvZnano6wg"
 global.github = "https://github.com/Khairilp.io"
 global.ownernomer = "601123550412"
