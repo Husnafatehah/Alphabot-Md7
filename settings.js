@@ -24,12 +24,12 @@ global.myweb ="https://ragilhensemtop1mars.com"
 global.youtube = "https://youtube.com/channel/UCdTepTOpfG2fsmvZnano6wg"
 global.github = "https://github.com/Khairilp.io"
 global.ownernomer = ["601123550412","601174791790"]
-global.ownernomerr = ["+601123550412","+601174791790"]
+global.ownernomerr = "+601123550412"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["601123550412","601174791790","60105408006"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
+global.packname = '🖕 Alphabot-Mdོ' //sticker wm
 global.author = '' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
